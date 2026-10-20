@@ -69,3 +69,7 @@ Per indicare a mano il percorso di Chrome usa la variabile `GEMINI_CHROME`.
 - Gemini ha un limite giornaliero di immagini: oltre quel limite le richieste falliscono. Riprendi il giorno dopo, lo script salta quelle già fatte.
 - L'interfaccia di Gemini cambia nel tempo. I punti più delicati sono `CASELLA`, `RISPOSTA`, `allega()` e `salva()` in `gemini_batch.py`.
 - I termini di Google non prevedono l'uso automatico del sito. Usalo con poche richieste e con calma, a tuo rischio.
+
+## Licenza
+
+MIT, vedi [LICENSE](LICENSE).
