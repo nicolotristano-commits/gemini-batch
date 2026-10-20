@@ -1,0 +1,7 @@
+{
+  "prefisso": "Generate an image: redraw the attached picture keeping the same composition.",
+  "stile": "Cozy style, soft rounded shapes, square 1:1.",
+  "richieste": [
+    {"id": "foto_1_ridisegnata", "prompt": "Turn it into a watercolor illustration.", "immagini": ["immagini/foto_1.png"]}
+  ]
+}

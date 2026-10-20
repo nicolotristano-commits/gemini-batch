@@ -1,0 +1,8 @@
+{
+  "prefisso": "Generate an image:",
+  "stile": "Clean black and white line art for a coloring book, thick outlines, no shading, square 1:1.",
+  "richieste": [
+    {"id": "gatto", "prompt": "a cat sleeping on a windowsill next to a potted plant."},
+    {"id": "casa", "prompt": "a small stone cottage with a garden and a bench."}
+  ]
+}
